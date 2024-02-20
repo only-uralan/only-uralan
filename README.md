@@ -164,7 +164,7 @@ Frontend Developer from Kalmykia 🏯
 
 - :bird: &nbsp;**[VK](https://vk.com/alwaysagunner)**
 - :airplane: &nbsp;**[Telegram](https://t.me/arsikdakanca)**
-- :email: &nbsp;**[Email](arsik0990@gmail.com)**
+- :email: &nbsp;**[Email](mailto:arsik0990@gmail.com)**
 - :comet: &nbsp;**[Github](https://github.com/debabin)**
 
 <br>
