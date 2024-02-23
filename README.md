@@ -18,7 +18,14 @@ Frontend Developer from Kalmykia 🏯
 
 ## [ Some pets 🐶 and tests ☑️](https://github.com/only-uralan)
 
+- ### [💪 Gym App](https://github.com/only-uralan/gym-train)
+  Complete Typescript React Fitness Application for Beginners
+- ### [🔑 Test Task](https://github.com/only-uralan/sector.business)
+  Completed test task with Api from "https://jsonplaceholder.typicode.com" deployed on vercel
+- ### [📸 React Leaflet Test](https://github.com/only-uralan/leaflet-test)
+  Small pet-project with several routes displayed on the map
 
+<br>
 
 <br>
 
